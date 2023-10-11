@@ -1,1 +1,1 @@
-My solutions to the codewar's exercises
+My solutions to the Codewar's exercises
