@@ -1,1 +1,1 @@
-"# codewars_solutions" 
+My solutions to the codewar's exercises
